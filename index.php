@@ -1,3 +1,3 @@
 <?php
 
-echo "Modified PHP Application";
+echo "webappslot-php application";
