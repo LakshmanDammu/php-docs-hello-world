@@ -1,3 +1,3 @@
 <?php
 
-echo "Welcome to PHP APPLICATION LOGIN PAGE";
+echo "Modified PHP Application";
